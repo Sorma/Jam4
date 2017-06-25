@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39538771da40bfa4a8294773b5304edf
+timeCreated: 1491960716
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Serif CN
+  fontNames:
+  - Source Han Serif CN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 45624ab2b8288486db58469171e1cb55
+timeCreated: 1498328281
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Sans CN
+  fontNames:
+  - Source Han Sans CN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cb8f030c3e674533ba2c78397f40a14, type: 3}
+  - {fileID: 12800000, guid: 001bfb0454efd4f88b8a40025905a226, type: 3}
+  - {fileID: 12800000, guid: 0ee00509e6a424d3dbf4dedeac6f82d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
