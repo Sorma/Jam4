@@ -32,3 +32,15 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Fonts/Gotham-Bold.otf
+Assets/Fonts/Gotham-Bold.otf.meta
+Assets/Fonts/Gotham-Book.otf
+Assets/Fonts/Gotham-Book.otf.meta
+Assets/Fonts/Gotham-Light.otf
+Assets/Fonts/Gotham-Light.otf.meta
+Assets/Fonts/Gotham-Medium.otf
+Assets/Fonts/Gotham-Medium.otf.meta
+Assets/Fonts/Gotham-XLight.otf
+Assets/Fonts/Gotham-XLight.otf.meta
+Assets/Fonts/GothamCond-Light.otf
+Assets/Fonts/GothamCond-Light.otf.meta
